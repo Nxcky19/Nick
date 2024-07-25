@@ -22,7 +22,7 @@
 <button id="resetButton" onclick="resetTimer()" style="display: none;">Reiniciar</button>
 
 
-<FONT COLOR="white"><h2>Hii Nicky today is a beautiful day to learn how to save lives, u got it bbygirl...</h2></FONT>
+<FONT COLOR="black"><h2>Hii Nicky today is a beautiful day to learn how to save lives, u got it bbygirl...</h2></FONT>
 
 
 <style>
@@ -49,7 +49,7 @@
         width: 100%;
     }
 </style>
-</head>
+
 
 <div class="carousel">
     <div class="item">
@@ -197,11 +197,10 @@
         }
     </style>
   </head>
-<body>
+
     <video id="video-background" autoplay muted loop>
         <source src="https://github.com/Nxcky19/Nick/blob/main/salo.mp4" type="video/mp4">
 
     </video>
    </body>
-      </body>
-</html>
+     
