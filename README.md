@@ -1,7 +1,6 @@
 
 <body>
 
-
 <FONT COLOR="black"><h1>Time to Study Mor </h1> </FONT>
 <div id="timer">50:00
    
