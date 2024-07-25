@@ -196,7 +196,7 @@
             font-size: 48px;
         }
     </style>
-  </head>
+
 
     <video id="video-background" autoplay muted loop>
         <source src="https://github.com/Nxcky19/Nick/blob/main/salo.mp4" type="video/mp4">
