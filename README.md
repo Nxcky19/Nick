@@ -2,7 +2,7 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
 
 <title>Time to Study Mor</title> <style> body { text-align: center; font-family: Arial, sans-serif; } #timer { font-size: 48px; } </style>
 <FONT COLOR="black"><h1>Time to Study Mor </h1> </FONT>
-<div>
+<div>/////////////////////////////////////////////////
 <div id="timer">50:00
    
 </div>
@@ -40,7 +40,7 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
 </style>
 </head>
 
-<div class="carousel">
+<div class="carousel">/////////////////////////////////
     <div class="item">
         <div class="music-player">
             <h2>X19X</h2>
@@ -48,17 +48,20 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
             <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/56dHJTQQ8lMGgBegxfYVDM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
          
         </div>
+           </div>
  
     <div class="item">
         <div class="music-player">
             <h2>MOR</h2>
             <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3js3vnaiDDghVu9ADH93Q5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
+       </div>
     <div class="item">
         <div class="music-player">
             <h2>DUCATI</h2>
             <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/444LqH6QlvR62nY8Vxn37u?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
+       </div>
     <div class="item">
         <div class="music-player">
             <h2>LCLM</h2>
@@ -182,10 +185,11 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
             font-size: 48px;
         }
     </style>
-
+  </head>
+<body>
     <video id="video-background" autoplay muted loop>
         <source src="https://github.com/Nxcky19/Nick/blob/main/salo.mp4" type="video/mp4">
 
     </video>
-    </head>
-<body>
+   </body>
+</html>
