@@ -24,7 +24,7 @@
 
 <FONT COLOR="white"><h2>Hii Nicky today is a beautiful day to learn how to save lives, u got it bbygirl...</h2></FONT>
 
-///
+
 <style>
     /* Estilos para el carrusel */
     .carousel {
@@ -51,7 +51,7 @@
 </style>
 </head>
 
-<div class="carousel">/////////////////////////////////
+<div class="carousel">
     <div class="item">
         <div class="music-player">
             <h2>X19X</h2>
@@ -203,4 +203,5 @@
 
     </video>
    </body>
+      </body>
 </html>
