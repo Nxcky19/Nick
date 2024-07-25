@@ -1,7 +1,7 @@
 Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky.
 
 <title>Time to Study Mor</title> <style> body { text-align: center; font-family: Arial, sans-serif; } #timer { font-size: 48px; } </style>
-<FONT COLOR="white"><h1>Time to Study Mor </h1> </FONT>
+<FONT COLOR="black"><h1>Time to Study Mor </h1> </FONT>
 <div>
 <div id="timer">50:00
    
