@@ -1,5 +1,12 @@
 
 <body>
+   @media (max-width: 768px) {
+    .carousel iframe {
+        height: 200px;
+    }
+}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/56dHJTQQ8lMGgBegxfYVDM?utm_source=generator" width="100%" height="100%" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <FONT COLOR="black"><h1>Time to Study Mor </h1> </FONT>
 <div id="timer">50:00
    
