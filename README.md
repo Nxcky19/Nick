@@ -186,7 +186,7 @@
 
 
     <video id="video-background" autoplay muted loop>
-        <source src="https://github.com/Nxcky19/Nick/blob/main/salo.mp4" type="video/mp4">
+        <source src="https://github.com/Nxcky19/Nick/raw/main/salo.mp4" type="video/mp4">
 
     </video>
    </body>
