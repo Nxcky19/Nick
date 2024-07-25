@@ -12,7 +12,7 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
 
 
 <FONT COLOR="white"><h2>Hii Nicky today is a beautiful day to learn how to save lives, u got it bbygirl...</h2></FONT>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0lgs2Sa82lyX89nBUWyUy6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ///
 <style>
     /* Estilos para el carrusel */
@@ -182,9 +182,10 @@ Hii Nicky, today is a beautiful day to learn how to save lives, you got it Nicky
             font-size: 48px;
         }
     </style>
-</head>
-<body>
+
     <video id="video-background" autoplay muted loop>
         <source src="https://github.com/Nxcky19/Nick/blob/main/salo.mp4" type="video/mp4">
-        Tu navegador no soporta la etiqueta de video.
+
     </video>
+    </head>
+<body>
