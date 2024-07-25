@@ -1,17 +1,4 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Time to Study Mor</title>
-    <style>
-        body {
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-        #timer {
-            font-size: 48px;
-        }
-    </style>
-</head>
+
 <body>
 <FONT COLOR="black"><h1>Time to Study Mor </h1> </FONT>
 <div id="timer">50:00
